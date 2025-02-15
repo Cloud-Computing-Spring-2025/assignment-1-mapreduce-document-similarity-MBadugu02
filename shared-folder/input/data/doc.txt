@@ -1,0 +1,3 @@
+doc1    Hotels have good food
+doc2    Good food is better for good health
+doc3    Taste is not important for health
